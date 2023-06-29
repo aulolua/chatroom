@@ -98,6 +98,7 @@ const server = http.createServer((req, res) => {
               margin: 5px 0;
             }
           </style>
+          <meta http-equiv="refresh" content="10">
         </head>
         <body>
           <div class="container">
