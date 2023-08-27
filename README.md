@@ -1,4 +1,4 @@
-# (Pure HTML Chatroom using Node.js](https://github.com/aulolua/chatroom)
+# [Pure HTML Chatroom using Node.js](https://github.com/aulolua/chatroom)
 
 This project demonstrates the creation of a simple chatroom application using Node.js on the server-side and pure HTML for the frontend. The application allows users to register, log in, and participate in a chatroom where they can send and receive messages in real-time.
 
